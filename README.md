@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sohan V
+- 👋 Hola! I’m Sohan V
 - 👀 I’m interested in Blockchain, AI/ML and Cloud Computing
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML projects, Full stack apps and Blockchain projects
