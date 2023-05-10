@@ -5,7 +5,7 @@
 - 📫 How to reach me : EMAIL: sohan.venkatesh@outlook.com 
 - Feel free to reach out to me for any project collaboration.
 
-Until the, Adios!!!
+Adios!!!
 
 <!---
 sohv/sohv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
