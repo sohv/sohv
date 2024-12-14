@@ -1,11 +1,11 @@
 - 👋 Heyo! I’m Sohan
-- 👀 I’m interested in Blockchain, AI/ML and Cloud Computing
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on AI/ML projects, Full stack apps and Blockchain projects
-- 📫 How to reach me : EMAIL: sohan.venkatesh@outlook.com 
+- 👀 I’m interested in Computer Vision, Reinforcement learning and Generative AI
+- 🌱 I’m currently learning reinforement learning and RAG
+- 💞️ I’m looking to collaborate on deep learning, generative AI, and computer vision projects.
+- 📫 How to reach me : EMAIL: soh.venkatesh@gmail.com 
 - Feel free to reach out to me for any project collaboration.
 
-Until then, Adios👋
+Adios👋
 
 <!---
 sohv/sohv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
