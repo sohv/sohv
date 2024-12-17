@@ -5,7 +5,7 @@
 - 📫 How to reach me : EMAIL: soh.venkatesh@gmail.com 
 - Feel free to reach out to me for any project collaboration.
 
-| <a href="https://github.com/sohv/my-stats"><img align="center" src="https://my-stats-git-main-sohvenkateshgmailcoms-projects.vercel.app/api?username=sohv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sohan's github stats" /></a> | <a href="https://github.com/sohv/my-stats"><img align="center" src="https://my-stats-git-main-sohvenkateshgmailcoms-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+| <a href="https://github.com/sohv/my-stats"><img align="center" src="https://my-stats-ruby-eta.vercel.app/api?username=sohv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sohan's github stats" /></a> | <a href="https://github.com/sohv/my-stats"><img align="center" src="https://my-stats-ruby-eta.vercel.app/api/top-langs/?username=sohv&layout=compact&theme=buefy&hide_border=true" /></a>
 <br>
   Adios👋
 
