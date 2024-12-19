@@ -43,11 +43,12 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 - [CSS Grid vs Flexbox: Which One Should You Use?](https://yourblog.com/css-grid-vs-flexbox)
 -->
 
+<!--
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 Python       15 hrs 45 mins ██████████████░░░░░░░░░░░░░   60.00 %
 SQL          5 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░░░   21.00 %
 TensorFlow   2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 Other        2 hrs 00 mins  █░░░░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+-->
