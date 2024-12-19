@@ -38,11 +38,9 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 
 <!--
 ## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [How to Get Started with Python](https://yourblog.com/python-getting-started)
 - [Understanding JavaScript Closures](https://yourblog.com/js-closures)
 - [CSS Grid vs Flexbox: Which One Should You Use?](https://yourblog.com/css-grid-vs-flexbox)
-<!-- BLOG-POST-LIST:END -->
 -->
 
 ## 📊 Weekly Development Breakdown
