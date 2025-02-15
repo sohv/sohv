@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 - 🌱 I’m currently learning **computer vision** and **reinforcement learning**.
 - 👯 I’m looking to collaborate on projects in areas of **generative AI**, **computer vision** and **full-stack development**.
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
-<!-- 📫 How to reach me: **soh.venkatesh@gmail.com**.-->
 - 🔭 I am currently working on a project titled **Document Management System with Intelligent Search**.
 - ⚡ Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
+<!-- 📫 How to reach me: **soh.venkatesh@gmail.com**. this line must be 4th-->
 
 ## 🔧 Technologies & Tools
 
