@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
 - 🔭 I am currently working on a project titled **Document Management System with Intelligent Search**.
 - ⚡ Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
-<!-- 📫 How to reach me: **soh.venkatesh@gmail.com**. this line must be 4th-->
+<!-- 📫 How to reach me: **email**. this line must be 4th-->
 
 ## 🔧 Technologies & Tools
 
