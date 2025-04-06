@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **computer vision** and **reinforcement learning**.
-- 👯 I’m looking to collaborate on projects in areas of **generative AI**, **computer vision** and **full-stack development**.
+- 👯 I’m looking to collaborate on projects in areas of **large language models**, **generative AI** and **NLP**.
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
 - 🔭 I am currently working on the project **DocParser**.
 - ⚡ Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
