@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 
 ## 🚀 About Me
 
-- 🌱 I’m currently researching LLMs @ [@Precog](https://github.com/precog-iiith).
+- 🌱 I’m currently researching LLMs @ [Precog](https://github.com/precog-iiith).
 - 👯 I’m looking to collaborate on projects in areas of **language models**, **generative AI** and **NLP**.
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
 - 🔭 I am currently working on the project **ResumeRoast**.
