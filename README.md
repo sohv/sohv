@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **computer vision** and **reinforcement learning**.
-- 👯 I’m looking to collaborate on projects in areas of **large language models**, **generative AI** and **NLP**.
+- 🌱 I’m currently researching LLMs @ [@Precog](https://github.com/precog-iiith).
+- 👯 I’m looking to collaborate on projects in areas of **language models**, **generative AI** and **NLP**.
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
-- 🔭 I am currently working on the project **DocParser**.
+- 🔭 I am currently working on the project **ResumeRoast**.
 - ⚡ Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
-<!-- 📫 How to reach me: **email**. this line must be 4th-->
+- 📫 Reach me on: **soh.venkatesh@gmail.com** or [LinkedIn](https://www.linkedin.com/in/sohan-venkatesh/).
 
 ## 🔧 Technologies & Tools
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sohan-venkatesh/)
-[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=superuser&logoColor=white)](https://sohv.github.io/my-blog/)
+[![Personal Website](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=superuser&logoColor=white)](https://sohv.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:soh.venkatesh@gmail.com)
 
 <!--
