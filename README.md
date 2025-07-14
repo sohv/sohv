@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 - 💬 Ask me about **machine learning**, **deep learning** and **PyTorch**.
 - 🔭 I am currently working on the project **ResumeRoast**.
 - ⚡ Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
-- 📫 Reach me on: **soh.venkatesh@gmail.com** or [LinkedIn](https://www.linkedin.com/in/sohan-venkatesh/)
 
 ## 🔧 Technologies & Tools
 
