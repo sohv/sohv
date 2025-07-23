@@ -51,7 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
   - [ ] implement alerts for email
 - [ ] todo-list-prioritization
   - [ ] run A2C and A3C algorithms
-  - [ ] 
 
 <!--
 ## 📝 Recent Blog Posts
