@@ -35,23 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-FFA500?style=flat&logo=superuser&logoColor=white)](https://sohv.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:soh.venkatesh@gmail.com)
 
-## Project Status
-
-- [ ] mcrag
-  - [ ] run tests
-  - [ ] test different models
-- [ ] resumeroast
-  - [ ] modify scoring approach
-  - [ ] enable support for docx
-  - [ ] implement tests
-  - [ ] plan deployment
-- [ ] frep
-  - [ ] test backend again
-  - [ ] build frontend
-  - [ ] implement alerts for email
-- [ ] todo-list-prioritization
-  - [ ] run A2C and A3C algorithms
-
 <!--
 ## 📝 Recent Blog Posts
 - [How to Get Started with Python](https://yourblog.com/python-getting-started)
