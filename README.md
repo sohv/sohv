@@ -24,11 +24,15 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sohv">
+  <a href="https://sohv.github.io/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sohv&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=sohv&theme=dark&hide_border=true" />
   </a>
 </p>
+
+## GitHub Trophies
+
+![Sohv's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sohv&theme=monokai)
 
 ## Connect with Me
 
