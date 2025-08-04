@@ -67,9 +67,9 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-#### Learning...
+<!--#### Learning...-->
 
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!--![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
 
 
 ## 📈 GitHub Stats
