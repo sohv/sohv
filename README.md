@@ -6,7 +6,7 @@ I'm an AI researcher working on LLMs.
 
 - I’m an independent researcher working on interpretability of language models. More about my research [here](https://sohv.github.io/research/).
 - I study Computer Science at Manipal and will graduate in 2026.
-- I have both research and engineering experience at organizations like Infosys and IIIT Hyderabad.
+- I have both research and engineering [experience](https://sohv.github.io/cv/) at organizations like Infosys and IIIT Hyderabad.
 
 ## Connect with Me
 
