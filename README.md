@@ -1,14 +1,12 @@
 # Hi there, I'm Sohan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who loves to explore new technologies and contribute to various AI projects.
+I'm an AI researcher working on LLMs.
 
 ## About Me
 
-- I’m currently researching LLMs @ [Precog](https://precog.iiit.ac.in/)
-- I’m looking to collaborate on projects in areas of **language models**, **generative AI** and **NLP**.
-- Ask me about **machine learning**, **deep learning** and **PyTorch**.
-- I am currently working on the project **Scorj**.
-- Fun fact: **I fear git reset like a horror movie villain (ever lost 2 days of work in one command?)**.
+- I’m an independent researcher working on interpretability of language models. More about my research [here](https://sohv.github.io/research/).
+- I study Computer Science at Manipal and will graduate in 2026.
+- I have both research and engineering experience at organizations like Infosys and IIIT Hyderabad.
 
 ## Skills
 
@@ -66,10 +64,6 @@ Welcome to my GitHub profile! I'm a passionate developer and AI enthusiast who l
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-<!--#### Learning...-->
-
-<!--![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
 
 
 ## 📈 GitHub Stats
