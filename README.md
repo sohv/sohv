@@ -1,12 +1,12 @@
 # Hi there, I'm Sohan! 👋
 
-I'm an AI researcher working on LLMs.
+I'm a research fellow working on AI Safety at LASR Labs. 
 
 ## About Me
 
-- I’m an independent researcher working on interpretability of language models. More about my research [here](https://sohv.github.io/research/).
-- I study Computer Science at Manipal and will graduate in 2026.
-- I have both research and engineering [experience](https://sohv.github.io/cv/) at organizations like Infosys and IIIT Hyderabad.
+- I was previously an independent researcher working on interpretability of language models. You can find more about my research [here](https://sohv.github.io/research/).
+- My research interests broadly include (mechanistic) interpretability, AI Safety and control
+- I'm passionate about Effective Altruism and work actively in AI safety to help technology benefit all of humanity.
 
 ## Connect with Me
 
